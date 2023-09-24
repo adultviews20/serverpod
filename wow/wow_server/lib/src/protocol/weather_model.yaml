@@ -1,4 +1,0 @@
-class: WeatherInfo
-fields:
-  temperature: double
-  
