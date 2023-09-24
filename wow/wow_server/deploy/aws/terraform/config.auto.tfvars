@@ -30,8 +30,8 @@ enable_redis = false
 # us-east-1 region.
 hosted_zone_id             = "Z00212772FHZ31G1A8T4B"
 top_domain                 = "databaseshop.fun"
-certificate_arn            = "arn:aws:acm:us-west-2:686910831786:certificate/7bd3ba95-ebf3-4865-89db-0b74c24d0483"
-cloudfront_certificate_arn = "arn:aws:acm:us-east-1:686910831786:certificate/0d6bd5d3-27f2-4bd6-889f-083e31263eaf"
+certificate_arn            = "arn:aws:acm:us-east-1:686910831786:certificate/0d6bd5d3-27f2-4bd6-889f-083e31263eaf"
+cloudfront_certificate_arn = "arn:aws:acm:us-west-2:686910831786:certificate/7bd3ba95-ebf3-4865-89db-0b74c24d0483"
 
 # Subdomains for different services. Default values are recommended, but you
 # may want to change the subdomain_web to www if you are using the top domain
